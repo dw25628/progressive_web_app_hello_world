@@ -1,4 +1,4 @@
-var cacheName = 'hello-pwa';
+var cacheName = 'hello-pwa-v0.0.1';// Update this value to force the update of the cache
 var filesToCache = [
   './',
   './index.html',
